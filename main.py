@@ -79,7 +79,7 @@ def t1():
 
 
       headers = {
-        'Host': 'ngl.link',
+        'Host': 'confess.ngl.link',
         'sec-ch-ua':
         '"Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"',
         'accept': '*/*',
@@ -91,7 +91,7 @@ def t1():
         'user-agent': ua,
         # 'sec-ch-ua-platform': '"Windows"',
         'sec-ch-ua-platform': pl,
-        'origin': 'https://ngl.link',
+        'origin': 'https://confess.ngl.link',
         'sec-fetch-site': 'same-origin',
         'sec-fetch-mode': 'cors',
         'sec-fetch-dest': 'empty',
