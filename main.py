@@ -126,7 +126,7 @@ def t1():
     pass
 
 try:
-    r1 = Thread(target=t1).start()
+  r1 = Thread(target=t1).start()
   r1 = Thread(target=t1).start()
   r1 = Thread(target=t1).start()
   r1 = Thread(target=t1).start()
